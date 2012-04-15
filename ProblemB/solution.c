@@ -16,7 +16,7 @@ int main(int argc, char const *argv[])
     }
     int t,n,s,p;
     int count;
-    int total[30];
+    int total[100];
     int case_count = 1;
     fscanf(input,"%d",&t);
 
